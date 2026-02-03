@@ -1,5 +1,5 @@
 # Dissertacao_Mestrado_UFRJ
-Gráficos iterativos mencionados na dissertação.
+Gráficos iterativos mencionados na dissertação e também os códigos da parte da modelagem referente as aplicações 3 e 4, também mencionados no texto da dissertação.
 
 Para verificar os gráficos referentes ao capítulo 3, favor baixar os de nome "obitos_tot_fem_masc" e "obitos_dac_fem_masc".
 
